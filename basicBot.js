@@ -1735,7 +1735,7 @@
                     'Your emotional nature is strong and sensitive.',
                     'To be old and wise, you must first be young and stupid.',
                     'If you are afraid to shake the dice, you will never throw a six.',
-                    'Your life will be filled with magical moments.',
+                    'Your life will be filled with magical moments.'
 '
 
 '
