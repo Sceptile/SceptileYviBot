@@ -1739,6 +1739,8 @@
                     'gives you a fortune cookie. It reads "Do not fear what you dont know." ',
                     'gives you a fortune cookie. It reads "You will soon witness a miracle." ',
                     'gives you a fortune cookie. It reads "You will take a pleasant journey to a place far away." ',
+                   'gives you a fortune cookie. It reads " Keep it simple. The more you say, the less people remember." ',
+                    'gives you a fortune cookie. It reads "Poverty is no disgrace." ',
                     'has given you a grapefruit cookie made fresh from the membrane',
                     'has given you a chocolate chip cookie!',
 		    'gives you an oatmeal chocolate chip cookie. It is still warm. Enjoy!',
