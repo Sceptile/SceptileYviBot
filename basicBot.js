@@ -1736,29 +1736,6 @@
                     'To be old and wise, you must first be young and stupid.',
                     'If you are afraid to shake the dice, you will never throw a six.',
                     'Your life will be filled with magical moments.'
-'
-
-'
-'
-'
-'
-'
-'
-'
-
-                    
-'
-'
-'
-'
-'
-                    
-'
-'
-'
-'
-'
-'
                 ],
                 getCookie: function () {
                     var c = Math.floor(Math.random() * this.cookies.length);
