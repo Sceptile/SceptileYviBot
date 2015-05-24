@@ -1715,8 +1715,7 @@
                 command: 'cookie',
                 rank: 'user',
                 type: 'startsWith',
-              cookies: [
-                    'You cannot love life until you live the life you love.',
+              cookies: ['You cannot love life until you live the life you love.',
                     'You will become great if you believe in yourself.',
                     'You must try, or hate yourself for not trying.',
                     'You can make your own happiness.',
@@ -1736,7 +1735,7 @@
                     'Your emotional nature is strong and sensitive.',
                     'To be old and wise, you must first be young and stupid.',
                     'If you are afraid to shake the dice, you will never throw a six.',
-                    'Your life will be filled with magical moments.'
+                    'Your life will be filled with magical moments.',
 '
 
 '
