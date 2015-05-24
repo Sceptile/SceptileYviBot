@@ -1741,7 +1741,7 @@
                     'You will take a pleasant journey to a place far away.',
                     'has given you a grapefruit cookie made fresh from the membrane',
                     'has given you a chocolate chip cookie!',
-'gives you an oatmeal chocolate chip cookie. It is still warm. Enjoy!',
+		    'gives you an oatmeal chocolate chip cookie. It is still warm. Enjoy!',
 'has given you a plain, dry, old cookie. It was the last one in the bag. Gross.',
 'gives you a sugar cookie. What, no frosting and sprinkles? 0/10 would not touch.',
  'gives you a chocolate chip cookie. Oh wait, those are raisins. Bleck!',
@@ -1789,7 +1789,7 @@
 'bakes you a fresh white chocolate macadamia nut cookie. YUMMMMM.',
 'gives you a .gif cookie. It dances and reads “Fuck it I give up!”',
 'gives you a talking gold cookie. It raps “ I got 99 problems but a cookie ain’t one”',
-'gives you a burnt cookie.  Sorry I don’t know how to bake.',
+'gives you a burnt cookie.  Sorry I don’t know how to bake.'
 
   ],
                 getCookie: function () {
